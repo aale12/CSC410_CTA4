@@ -13,4 +13,4 @@ A Python-based GUI application that displays a hierarchical taxonomy of the anim
 ## **Examples of Application**
 
 ### Taxonomy Tree
-![Taxonomy Tree](images/animaliaframe.png, "Taxonomy Tree")
+![Taxonomy Tree](images/animaliaframe.png "Taxonomy Tree")
